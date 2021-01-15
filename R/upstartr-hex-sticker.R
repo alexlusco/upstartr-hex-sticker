@@ -40,9 +40,9 @@ s <- sticker(img,
         #h_color = "#DA161F",
         spotlight = FALSE,
         white_around_sticker = FALSE,
-        filename = "hex/startr-hex.png")
+        filename = "hex/upstartr-hex.png")
 s
 
 #to overwrite with different sizing specs
-#ggsave("hex/startr-hex.png", s, width = 8, height = 8)
+#ggsave("hex/upstartr-hex.png", s, width = 8, height = 8)
                    
